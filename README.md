@@ -53,7 +53,7 @@ class BudgetForm(ModelForm):
             return data
 ```
 ## Front End Stories
-- [Base HTML page](#Base HTML)
+- [Base HTML page](#Base-HTML)
 - [Inheriting Base page to other HTML pages](#Inheritance)
 - [Linking all pages to each other with django](#Links)
 - [CSS for my pages](#CSS)
